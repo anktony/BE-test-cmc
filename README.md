@@ -1,9 +1,9 @@
 ## BE-Test
 An explanation of chosen tools and how to test the API.
 
-The list of pre-registered emails in the database is available in section 4 of this document.
+*The list of pre-registered emails in the database is available in section 4 of this document.
 
-Sensitive data for local testing, such as keys and passwords, are only available in the **.env** file sent via email.
+*Sensitive data for local testing, such as keys and passwords, are only available in the **.env** file sent via email.
 
 
 ### 1. Choices explanation
